@@ -1,0 +1,25 @@
+[
+    {
+        "image" :"https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/Restos_du_coeur_Logo.svg/1200px-Restos_du_coeur_Logo.svg.png",
+        "nom": "les-restos-du-coeur",
+        "description": "Les Restaurants du Cœur sont une association caritative française , dont l'activité principale est de distribuer des colis alimentaires et des repas chauds aux personnes dans le besoin.",
+        "slogan" : "On compte sur vous !"
+        
+    },
+    
+    {
+        "image" :"https://cdn.1min30.com/wp-content/uploads/2018/03/Couleur-logo-UNICEF.jpg" ,
+        "nom": "unicef",
+        "description": "L'UNICEF est une agence des Nations Unies chargée de fournir une aide humanitaire et au développement aux enfants du monde entier.",
+        "slogan" : "Pour chaque enfant !"
+        
+    },
+    
+    {
+        "image" :"https://www.konexio.eu/uploads/1/2/0/2/120245745/konexio_logo.png" ,
+        "nom": "konexio",
+        "description": "Konexio a pour objectif de faire du numérique, un synonyme d'opportunités en formant les plus vulnérables aux compétences numériques - des plus basiques aux plus avancées - afin de faciliter leur inclusion socioprofessionnelle. Réfugiés, jeunes sans emploi, femmes demandeuses d’emploi… nous voulons favoriser un monde où chacun.e est inclu.e dans la digitalisation de la société.",
+        "slogan" : "Faire du numérique une opportunité pour tous.tes"
+        
+    }
+]
